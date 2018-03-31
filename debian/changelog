@@ -1,3 +1,12 @@
+sanoid (1.4.16~ubuntu1~ppa1) bionic; urgency=medium
+
+  * Built for bionic
+  * d/control:
+    - fix section, and add recommends for optional dependencies
+    - add dh-systemd to build dependencies
+
+ -- Andreas Hasenack <andreas@nsn7>  Sat, 31 Mar 2018 15:34:01 -0300
+
 sanoid (1.4.16) unstable; urgency=medium
 
   * merged @hrast01's extended fix to support -o option1=val,option2=val passthrough to SSH. merged @JakobR's
