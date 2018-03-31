@@ -1,4 +1,4 @@
-sanoid (1.4.16~ubuntu1~ppa1) bionic; urgency=medium
+sanoid (1.4.16+ubuntu1~ppa1) bionic; urgency=medium
 
   * Built for bionic
   * d/control:
